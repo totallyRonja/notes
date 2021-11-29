@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b435a7c431f6c0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bb1729e8eadff9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hobby/TTRPG/Elliott Lancer/Protagonists/Adelaide.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ce012fe7e7eabe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69ceaacb6da2ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffa867d76085a114",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15f5043e9c97f77f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1297a990692ec7fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "db157f3ceea99b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04141f1ba09e0721",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hobby/TTRPG/Elliott Lancer/Protagonists/Adelaide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "34bb1729e8eadff9",
+  "lastOpenFiles": [
+    "Hobby/TTRPG/Elliott Lancer/Protagonists/Adelaide.md",
+    "Hobby/TTRPG/Elliott Lancer/Characters/Jean & Ann.md",
+    "Hobby/TTRPG/Elliott Lancer/Characters/The Block.md",
+    "Hobby/TTRPG/Elliott Lancer/Characters/Mir.md",
+    "Hobby/TTRPG/Elliott Lancer/Characters/Psalm.md",
+    "Hobby/TTRPG/Elliott Lancer/Characters/Evergreen.md",
+    "Hobby/TTRPG/Elliott Lancer/Characters/The resistance or whatever.md",
+    "Hobby/TTRPG/Elliott Lancer/Protagonists/Kushaaneh Gün/History.md",
+    "Hobby/TTRPG/Elliott Lancer/Protagonists/Kushaaneh Gün/Death.md",
+    "Hobby/TTRPG/Elliott Lancer/Characters/Brava Hadura.md"
+  ]
+}
