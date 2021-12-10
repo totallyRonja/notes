@@ -1,0 +1,5 @@
+- Still call gradle earth
+- nobility is by blood *or* can also be given by someone with higher nobility
+- nobility *just gives you* power, land and stuff
+- power can also be gained by being rich or an influencer, but political power is capped by nobility
+- each (minor or major) house that can do so is legally required to have a military(House Company) (of <1000 mechs)
