@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hobby/TTRPG/Elliott Lancer/Factions/Baronies.md",
-            "mode": "source"
+            "file": "Media/Books/This is how you loose the time war.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobby/TTRPG/Elliott Lancer/Factions/Baronies.md",
+                "file": "Media/Books/This is how you loose the time war.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "34bb1729e8eadff9",
   "lastOpenFiles": [
-    "Hobby/TTRPG/Elliott Lancer/Factions/Baronies.md",
-    "Hobby/TTRPG/Elliott Lancer/Protagonists/Kushaaneh Gün/Kushaaneh.md",
-    "Hobby/TTRPG/Elliott Lancer/Characters/Noémie.md",
-    "Hobby/TTRPG/Elliott Lancer/Characters/Psalm.md",
-    "Hobby/TTRPG/Elliott Lancer/Factions/Hercinia Resistace.md",
-    "Hobby/TTRPG/Elliott Lancer/Characters/The Block.md",
-    "Hobby/TTRPG/Elliott Lancer/Protagonists/Adelaide.md",
-    "Hobby/TTRPG/Elliott Lancer/Characters/Jean & Ann.md",
-    "Hobby/TTRPG/Elliott Lancer/Characters/Mir.md",
-    "Hobby/TTRPG/Elliott Lancer/Characters/Evergreen.md"
+    "Media/Books/This is how you loose the time war.md",
+    "Media/Books/The wicker king.md",
+    "Media/Movies/The matrices.md",
+    "Media/Movies/Portrait of a lady on fire.md",
+    "Media/Games/Ikenfell.md",
+    "Media/Books/Wayfarer Series.md",
+    "Media/Games/Get in the car looser.md",
+    "Hobby/TTRPG/Elliott Lancer/Protagonists/Jun.md",
+    "Hobby/TTRPG/Elliott Lancer/Protagonists/Sascha.md",
+    "Hobby/TTRPG/Elliott Lancer/Protagonists/Disco Hexe.md"
   ]
 }
