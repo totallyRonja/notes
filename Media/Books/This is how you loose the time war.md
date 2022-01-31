@@ -1,6 +1,6 @@
 I usually dont read books twice and with this I'm on my third go. This is hands down my favourite book!
 Please go read it and then lets talk about it and then lets make out while talking about it some more.
-##### Spoilers galore from here on
+#### Spoilers galore from here on
 The base story is about two time agents of rivaling factions who write each other. At first more in curiosity and amusement than anything else. The book is "enemies to lovers", but they don't start of as rivals because they hate each other, they are rivals because from the very beginning they adore each other. Adore how noone in their world can challenge them how they challenge each other.
 
 And then how the story continues with the exploration of their psyches, their relationship, their desires is just... so good. The explorations on feelings of loneliness and desire especially and the way the two protagonists bounce off thoughts off each other connects *so much* with me in a way that feels connected to the way I experience my own autism? And it also mirrors some of the best relationships I've had so it just... makes me feel a lot. The way that then interweaves with the fantasy elements of the story just elevates it even more. How they make the other part of themselves, how they have always been together is just.. really nice and allows the story to be even more about just being human and about feelings without the disadvantages that come with trying to make things """realistic""".
