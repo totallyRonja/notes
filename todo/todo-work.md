@@ -13,6 +13,10 @@ kanban-plugin: basic
 
 ## Luxe
 
+- [ ] minor UI testing/cleanup
+- [ ] make file node types work with new data format
+- [ ] use document to handle undo/save
+- [ ] introduce subgraphs
 - [ ] multiple noodle layers
 
 
