@@ -13,13 +13,13 @@ kanban-plugin: basic
 
 ## Luxe
 
-- [ ] procedural noodle nodes from code
 - [ ] multiple noodle layers
 
 
 ## done
 
 **Complete**
+- [x] procedural noodle nodes from code
 
 
 
