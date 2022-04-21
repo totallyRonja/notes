@@ -4,13 +4,6 @@ kanban-plugin: basic
 
 ---
 
-## DGF
-
-- [ ] fuzz mask
-- [ ] figure out print/unprint needs (especially authoring)
-- [ ] easy fuzz authoring on camera component
-
-
 ## Luxe
 
 - [ ] minor UI testing/cleanup
@@ -18,6 +11,13 @@ kanban-plugin: basic
 - [ ] use document to handle undo/save
 - [ ] introduce subgraphs
 - [ ] multiple noodle layers
+
+
+## DGF
+
+- [ ] fuzz mask
+- [ ] figure out print/unprint needs (especially authoring)
+- [ ] easy fuzz authoring on camera component
 
 
 ## done
