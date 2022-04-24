@@ -7,9 +7,11 @@
         "id": "34bb1729e8eadff9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "todo/todo-work.md"
+            "file": "Recipes/Adriels choco banana bread.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo/todo-work.md",
+                "file": "Recipes/Adriels choco banana bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +88,15 @@
   },
   "active": "34bb1729e8eadff9",
   "lastOpenFiles": [
+    "Recipes/Adriels choco banana bread.md",
+    "Recipes/Pancake.md",
+    "Recipes/Potato.md",
     "todo/todo-work.md",
     "Hobby/Writing/Upgrade.md",
     "Hobby/TTRPG/Systems.md",
     "todo-work.md",
     "Media/Books/This is how you loose the time war.md",
-    "Recipes/Potato.md",
     "Media/Books/Wayfarer Series.md",
-    "Media/Books/The Echo Wife.md",
-    "Media/Books/The wicker king.md",
-    "Hobby/TTRPG/Elliott Lancer/Factions/Baronies.md"
+    "Media/Books/The Echo Wife.md"
   ]
 }
