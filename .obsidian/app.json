@@ -1,5 +1,6 @@
 {
   "fileSortOrder": "byCreatedTimeReverse",
   "legacyEditor": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": false
 }

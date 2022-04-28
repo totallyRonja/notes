@@ -1,0 +1,8 @@
+- cute
+- brown hair
+- biologist
+- wants us to look at plants
+	- specifically large red-orange-purple flower (looks like big hibiscus)
+- disco feels weird about her 
+- maybe a little creepy with preserved animals and all
+- wants to find more about [[Egregorians]]

@@ -1,0 +1,2 @@
+- second in command after [[Patience]]
+- kinda takes care of and knows how to shut down [[Patience]]

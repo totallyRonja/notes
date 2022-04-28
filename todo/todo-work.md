@@ -6,24 +6,27 @@ kanban-plugin: basic
 
 ## Luxe
 
-- [ ] minor UI testing/cleanup
-- [ ] make file node types work with new data format (and re-add them to menu)
-- [ ] use document to handle undo/save
+
+
+## Noodles
+
 - [ ] introduce subgraphs
 - [ ] multiple noodle layers
+- [ ] use document to handle undo/save/load
 
 
-## DGF
+## progress
 
-- [ ] fuzz mask
-- [ ] figure out print/unprint needs (especially authoring)
-- [ ] easy fuzz authoring on camera component
 
 
 ## done
 
 **Complete**
 - [x] procedural noodle nodes from code
+- [x] minor UI testing/cleanup
+- [x] easy fuzz authoring on camera component
+- [x] fuzz mask
+- [x] make file node types work with new data format (and re-add them to menu)
 
 
 
