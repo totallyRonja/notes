@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Luxe
 
+- [ ] look into rotate_angle_axis_slerp vs rotate_angle_axis
 
 
 ## Noodles
