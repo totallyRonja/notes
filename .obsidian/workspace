@@ -7,9 +7,11 @@
         "id": "34bb1729e8eadff9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "todo/todo-work.md"
+            "file": "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Edena.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo/todo-work.md",
+                "file": "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Edena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +88,15 @@
   },
   "active": "34bb1729e8eadff9",
   "lastOpenFiles": [
+    "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Edena.md",
+    "Hobby/No Time for a Wallflower/Elliott Lancer/Factions/Hercinia Resistace.md",
     "todo/todo-work.md",
     "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Dr Eiku Marikadu.md",
-    "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Edena.md",
     "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Brava Hadura.md",
     "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Jean & Ann.md",
     "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/The Block.md",
     "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Egregorians.md",
     "Hobby/No Time for a Wallflower/Elliott Lancer/Characters/Psalm.md",
-    "Hobby/No Time for a Wallflower/Elliott Lancer/Protagonists/Jun.md",
-    "Hobby/No Time for a Wallflower/Elliott Lancer/Protagonists/Disco Hexe.md"
+    "Hobby/No Time for a Wallflower/Elliott Lancer/Protagonists/Jun.md"
   ]
 }
